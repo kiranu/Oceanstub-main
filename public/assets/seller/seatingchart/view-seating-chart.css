@@ -1,0 +1,27 @@
+body {
+	overflow-y: hidden;
+}
+.seatingchartedit {
+	position: absolute;
+    right: 107px;
+    bottom: 135px;
+}
+.seatingchartdelete {
+	position: absolute;
+    right: 18px;
+    bottom: 135px;
+}
+.chartname  {
+	position: absolute;
+    top: -3px;
+    margin-left: 23px;
+}
+#playground {
+	max-width: 100%;
+    overflow: auto;
+    max-height: 82vh;
+}
+.konvajs-content {
+	margin: 0 auto;
+    border: 1px dotted #0d66b6;
+}

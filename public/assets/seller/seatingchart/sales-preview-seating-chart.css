@@ -1,0 +1,61 @@
+#playground {
+    max-width: 100%;
+    overflow: auto;
+    max-height: 70vh;
+    border: 1px dotted blue;
+}
+.card-body.pb-0 {
+    padding-bottom: 0px;
+}
+.individual-seat-details-for-table-with-seats {
+    width: 150px;
+    height: 110px;
+    background-color: orange;
+    position: absolute;
+    top: 0px;
+    display: none;
+    padding: 10px;
+    z-index: 999;
+}
+.mt-0 {
+    margin-top: 0px;
+}
+.mb-0 {
+    margin-bottom: 0px;
+}
+.ui-widget-header {
+    border: 1px solid #0d66b6!important;
+    background: #0d66b6!important;
+    color: #eeeeee!important;
+    font-weight: bold!important;
+}
+.ui-button {
+    border: 1px solid #0d66b6!important;
+    background: #0d66b6!important;
+    font-weight: normal!important;
+    color: #e3e3e3!important;
+}
+.ui-button .ui-icon {
+    background-image: url(images/ui-icons_777777_256x240.png);
+}
+.ui-dialog {
+    top: 25vh!important;
+    position: fixed!important;
+    z-index: 1034;
+    width: 550px!important;
+}
+#ticketdetailsbigpopup .ui-dialog-title {
+    text-align: center!important;
+}
+.b-0 {
+    border: 0px;
+}
+.b-0:focus {
+    outline: none;
+}
+#ticketdetailsbigpopup .ui-dialog-titlebar-close {
+    display: none!important;
+}
+.ui-dialog .ui-dialog-titlebar-close {
+    display: none;
+}

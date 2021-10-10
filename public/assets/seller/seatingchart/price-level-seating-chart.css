@@ -1,0 +1,77 @@
+#playground {
+    max-width: 100%;
+    overflow: auto;
+    max-height: 70vh;
+    border: 1px dotted blue;
+}
+.card-body.pb-0 {
+    padding-bottom: 0px;
+}
+.ui-widget-header {
+    border: 1px solid #0d66b6!important;
+    background: #0d66b6!important;
+    color: #eeeeee!important;
+    font-weight: bold!important;
+}
+.ui-dialog {
+    width: 550px!important;
+}
+#section .row {
+    line-height: initial!important;
+}
+#section .row {
+    cursor: pointer;
+    padding-top: 10px;
+    display: block;
+    clear: both;
+}
+.ui-dialog-titlebar {
+    position: relative;
+    padding: 9px 24px;
+    text-align: center;
+}
+.ui-widget-header {
+    border: 1px solid #0d66b6!important;
+    background: #0d66b6!important;
+    color: #eeeeee!important;
+    font-weight: bold!important;
+}
+.ui-widget-content {
+    border: 1px solid #dddddd;
+    background: #ffffff;
+    color: #333333;
+}
+.ui-button {
+    border: 1px solid #0d66b6!important;
+    background: #0d66b6!important;
+    font-weight: normal!important;
+    color: #e3e3e3!important;
+}
+#section .spinner i::before {
+	display: none;
+}
+.addticketssuboptions a {
+	text-decoration: underline;
+    margin-right: 10px;
+}
+.individual-seat-details-for-table-with-seats {
+    width: 150px;
+    height: 57px;
+    background-color: #0d66b6;
+    position: absolute;
+    top: 0px;
+    display: none;
+    padding: 10px;
+    z-index: 999;
+}
+.mt-0 {
+    margin-top: 0px;
+}
+.seatingchartSvebtn {
+    position: absolute;
+    right: 68px;
+    bottom: 135px;
+}
+.b-0 {
+    border: 0px;
+}
